@@ -6,7 +6,7 @@ import {Header} from "./Components/Header"
 import { Sidebar } from "./Components/Sidebar.jsx";
 import '../node_modules/font-awesome/css/font-awesome.min.css'
 function App() {
- const [isactive, setisactive] = useState(false)
+ const [value, setvalue] = useState(0)
   const [isopen, setIsopen] = useState(false); //used in header and sidebar
   const [islarge, setIslarge] = useState(window.innerWidth >=768 ? true:false); //used in header and sidebar
   console.log(window.innerWidth, islarge)
@@ -27,9 +27,9 @@ function App() {
 
   return (
    <>
-   <Header isactive={isactive} setisactive={setisactive} isopen={isopen} setIsopen={setIsopen} islarge={islarge} setIslarge={setIslarge} />
+   <Header value={value} setvalue={setvalue} isopen={isopen} setIsopen={setIsopen} islarge={islarge} setIslarge={setIslarge} />
     
-    <Sidebar isactive={isactive} setisactive={setisactive} isopen={isopen} setIsopen={setIsopen} islarge={islarge} setIslarge={setIslarge} />
+    <Sidebar value={value} setvalue={setvalue} isopen={isopen} setIsopen={setIsopen} islarge={islarge} setIslarge={setIslarge} />
    <Front/>
    <Footer islarge={islarge} setIslarge={setIslarge} />
    </>
