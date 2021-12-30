@@ -102,7 +102,7 @@ export const Front = () => {
               <div className="thcolor h6">Search data</div>
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eos
               incidunt nemo, veritatis accusantium in minus est odit neque
-              accusamus consectetur possimus voluptatem enim omnis dolor rem
+              accusamus  rem
               optio ipsa dolorem et.
             </div>
             <div className="" style={{ height: "50px" }}></div>
@@ -143,7 +143,7 @@ export const Front = () => {
           data-bs-slide="prev"
         >
           <span
-            className="carousel-control-prev-icon me-5 "
+            className="carousel-control-prev-icon me-md-5 "
             aria-hidden="true"
           ></span>
           <span className="visually-hidden">Previous</span>
@@ -155,7 +155,7 @@ export const Front = () => {
           data-bs-slide="next"
         >
           <span
-            className="carousel-control-next-icon ms-5 "
+            className="carousel-control-next-icon ms-md-5 "
             aria-hidden="true"
           ></span>
           <span className="visually-hidden">Next</span>
