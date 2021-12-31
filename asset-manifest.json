@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Insignia/static/css/main.140fd041.css",
+    "main.css": "/Insignia/static/css/main.7b6de6a8.css",
     "main.js": "/Insignia/static/js/main.5607ce52.js",
     "static/media/logo.png": "/Insignia/static/media/logo.2c0e5786225078d3fffe.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/Insignia/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -14,11 +14,11 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Insignia/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/img1.png": "/Insignia/static/media/img1.a715e053ac7f092eea51.png",
     "index.html": "/Insignia/index.html",
-    "main.140fd041.css.map": "/Insignia/static/css/main.140fd041.css.map",
+    "main.7b6de6a8.css.map": "/Insignia/static/css/main.7b6de6a8.css.map",
     "main.5607ce52.js.map": "/Insignia/static/js/main.5607ce52.js.map"
   },
   "entrypoints": [
-    "static/css/main.140fd041.css",
+    "static/css/main.7b6de6a8.css",
     "static/js/main.5607ce52.js"
   ]
 }
