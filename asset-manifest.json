@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "//Khushi-Kumari.github.io/Insignia/static/css/main.ec9bf9c5.css",
-    "main.js": "//Khushi-Kumari.github.io/Insignia/static/js/main.cd6a4cb9.js",
-    "static/media/logo.png": "//Khushi-Kumari.github.io/Insignia/static/media/logo.2c0e5786225078d3fffe.png",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "//Khushi-Kumari.github.io/Insignia/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/man1.jpg": "//Khushi-Kumari.github.io/Insignia/static/media/man1.aa8ace0b206b8cf10b04.jpg",
-    "static/media/man2.png": "//Khushi-Kumari.github.io/Insignia/static/media/man2.3697edb029f7857d20d2.png",
-    "static/media/fontawesome-webfont.eot": "//Khushi-Kumari.github.io/Insignia/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "//Khushi-Kumari.github.io/Insignia/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/img3.png": "//Khushi-Kumari.github.io/Insignia/static/media/img3.6ac66371d7cc6e5c65c9.png",
-    "static/media/img2.png": "//Khushi-Kumari.github.io/Insignia/static/media/img2.9e4cf42bf465ce53851a.png",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "//Khushi-Kumari.github.io/Insignia/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "//Khushi-Kumari.github.io/Insignia/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/img1.png": "//Khushi-Kumari.github.io/Insignia/static/media/img1.a715e053ac7f092eea51.png",
-    "index.html": "//Khushi-Kumari.github.io/Insignia/index.html",
-    "main.ec9bf9c5.css.map": "//Khushi-Kumari.github.io/Insignia/static/css/main.ec9bf9c5.css.map",
-    "main.cd6a4cb9.js.map": "//Khushi-Kumari.github.io/Insignia/static/js/main.cd6a4cb9.js.map"
+    "main.css": "/Insignia/static/css/main.f9ef1649.css",
+    "main.js": "/Insignia/static/js/main.ff72d32a.js",
+    "static/media/logo.png": "/Insignia/static/media/logo.2c0e5786225078d3fffe.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Insignia/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/man1.jpg": "/Insignia/static/media/man1.aa8ace0b206b8cf10b04.jpg",
+    "static/media/man2.png": "/Insignia/static/media/man2.3697edb029f7857d20d2.png",
+    "static/media/fontawesome-webfont.eot": "/Insignia/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Insignia/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/img3.png": "/Insignia/static/media/img3.6ac66371d7cc6e5c65c9.png",
+    "static/media/img2.png": "/Insignia/static/media/img2.9e4cf42bf465ce53851a.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Insignia/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Insignia/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/img1.png": "/Insignia/static/media/img1.a715e053ac7f092eea51.png",
+    "index.html": "/Insignia/index.html",
+    "main.f9ef1649.css.map": "/Insignia/static/css/main.f9ef1649.css.map",
+    "main.ff72d32a.js.map": "/Insignia/static/js/main.ff72d32a.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec9bf9c5.css",
-    "static/js/main.cd6a4cb9.js"
+    "static/css/main.f9ef1649.css",
+    "static/js/main.ff72d32a.js"
   ]
 }
