@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Insignia/static/css/main.f9ef1649.css",
-    "main.js": "/Insignia/static/js/main.ff72d32a.js",
+    "main.css": "/Insignia/static/css/main.140fd041.css",
+    "main.js": "/Insignia/static/js/main.8acf8eac.js",
     "static/media/logo.png": "/Insignia/static/media/logo.2c0e5786225078d3fffe.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/Insignia/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/man1.jpg": "/Insignia/static/media/man1.aa8ace0b206b8cf10b04.jpg",
@@ -14,11 +14,11 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Insignia/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/img1.png": "/Insignia/static/media/img1.a715e053ac7f092eea51.png",
     "index.html": "/Insignia/index.html",
-    "main.f9ef1649.css.map": "/Insignia/static/css/main.f9ef1649.css.map",
-    "main.ff72d32a.js.map": "/Insignia/static/js/main.ff72d32a.js.map"
+    "main.140fd041.css.map": "/Insignia/static/css/main.140fd041.css.map",
+    "main.8acf8eac.js.map": "/Insignia/static/js/main.8acf8eac.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9ef1649.css",
-    "static/js/main.ff72d32a.js"
+    "static/css/main.140fd041.css",
+    "static/js/main.8acf8eac.js"
   ]
 }
