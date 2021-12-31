@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Insignia/static/css/main.140fd041.css",
-    "main.js": "/Insignia/static/js/main.5142cfe0.js",
+    "main.js": "/Insignia/static/js/main.5607ce52.js",
     "static/media/logo.png": "/Insignia/static/media/logo.2c0e5786225078d3fffe.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/Insignia/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/man1.jpg": "/Insignia/static/media/man1.aa8ace0b206b8cf10b04.jpg",
@@ -15,10 +15,10 @@
     "static/media/img1.png": "/Insignia/static/media/img1.a715e053ac7f092eea51.png",
     "index.html": "/Insignia/index.html",
     "main.140fd041.css.map": "/Insignia/static/css/main.140fd041.css.map",
-    "main.5142cfe0.js.map": "/Insignia/static/js/main.5142cfe0.js.map"
+    "main.5607ce52.js.map": "/Insignia/static/js/main.5607ce52.js.map"
   },
   "entrypoints": [
     "static/css/main.140fd041.css",
-    "static/js/main.5142cfe0.js"
+    "static/js/main.5607ce52.js"
   ]
 }
