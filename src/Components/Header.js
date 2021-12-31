@@ -75,7 +75,7 @@ export const Header = ({
                    // Data.map((index,item) => {return(  //**** WRONG never ever 1st write index then item
                      
                      
-                      Data.map((item,index) => {return( 
+                      Data.map((item,index) => {return ( 
                       <li className={index===value?"active":null}    onClick={()=>setvalue(index)}  key={index}>{item.topic} </li>
                     )})
 
