@@ -16,7 +16,7 @@ export const Front = () => {
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur
             sint eaque repellat soluta, ipsum eius sed accusamus eum sapiente,
             placeat nostrum molestias optio porro at dignissimos animi! Quidem,
-            vitae odit.
+            extension.
           </div>
           <div className="text-center">
             <button className="shadow-sm rounded text-white p-3 th-20">

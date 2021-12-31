@@ -15,7 +15,7 @@ export const Header = ({
 
   return (
     <>
-      <div className="shadow-sm sticky-top header pt-4">
+      <div className={"shadow-sm header pt-4" + (islarge?"":" sticky-top") }>
         <div className="container px-5 py-2">
           {!islarge && (
             <div className="row align-items-center ">
